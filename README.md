@@ -1,6 +1,6 @@
 # 👋 Hola, soy Loweez
 
-Soy un joven desarrollador de 15 años de Malaga, Andalucia. Me encanta crear proyectos web y aprender nuevas tecnologias para seguir mejorando.
+Soy un joven desarrollador de 15 años de Malaga, Andalucia. Me encanta crear proyectos web y aprender nuevas tecnologias para seguir mejorando. Tambien me dedico a la desarrollacion de servidores de minecraft y bots de discord.
 
 ---
 
@@ -18,6 +18,7 @@ Soy un joven desarrollador de 15 años de Malaga, Andalucia. Me encanta crear pr
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" alt="JavaScript" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="50" alt="TypeScript" />
   <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="50" alt="React" />
+
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" alt="Java" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50" alt="Python" />
   <img src="https://avatars.githubusercontent.com/u/88053830?s=200&v=4" width="50" alt="BDFD" />
